@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/fgisslen/blockchain-js#readme",
   "dependencies": {
-    "crypto-js": "^4.0.0"
+    "crypto-js": "^4.0.0",
+    "elliptic": "^6.5.2",
+    "secp256k1": "^4.0.0"
   }
 }
